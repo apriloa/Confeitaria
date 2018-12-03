@@ -13,7 +13,6 @@ import javax.persistence.*;
 public class Material {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
 	@Column(nullable=false, length=50)
 	private String nome;
