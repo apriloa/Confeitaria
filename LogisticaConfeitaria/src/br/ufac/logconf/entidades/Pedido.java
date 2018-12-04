@@ -1,4 +1,4 @@
-package br.ufac.logconf.entidades;
+package br.ufac.logconf.toti;
 
 import java.util.ArrayList;
 import java.util.List;

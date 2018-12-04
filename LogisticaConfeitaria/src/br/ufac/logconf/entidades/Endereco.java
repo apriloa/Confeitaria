@@ -1,3 +1,4 @@
+package br.ufac.logconf.toti;
 //package br.ufac.logconf.entidades;
 //
 //
