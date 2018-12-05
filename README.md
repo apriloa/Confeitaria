@@ -11,9 +11,9 @@ Projeto para TESI 2 - UFAC / MACILON
 
 ## Authors
 
-* **Lucas Cruz** - *GIT* - [PurpleBooth](https://github.com/lucascruz)
-* **Laila Assad** - *GIT* - [PurpleBooth](https://github.com/apriloa)
-* **W Bandeira** - *GIT* - [PurpleBooth](https://github.com/wbandeira)
+* **Lucas Cruz** - *GIT* - [Link](https://github.com/lucascruz)
+* **Laila Assad** - *GIT* - [Link](https://github.com/apriloa)
+* **W Bandeira** - *GIT* - [Link](https://github.com/wbandeira)
 
 
 
